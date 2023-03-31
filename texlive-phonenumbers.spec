@@ -1,6 +1,6 @@
 Name:		texlive-phonenumbers
 Version:	63774
-Release:	1
+Release:	2
 Summary:	Typesetting telephone numbers with LaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/phonenumbers
