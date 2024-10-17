@@ -3,7 +3,7 @@ Version:	63774
 Release:	2
 Summary:	Typesetting telephone numbers with LaTeX
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/phonenumbers
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/phonenumbers
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/phonenumbers.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/phonenumbers.doc.r%{version}.tar.xz
